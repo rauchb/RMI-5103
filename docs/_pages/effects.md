@@ -1,7 +1,7 @@
 ---
 layout: default
 title: This is Page 3
-nav_order: 3
+permalink: /pages/effects/
 ---
 
 ## Page Three

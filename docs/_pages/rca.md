@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Root Cause Analysis
+permalink: /pages/rca/
 ---
 
 ## Page 4 title
