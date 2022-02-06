@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Sources
-nav_order: 6
 ---
 
 # Sources

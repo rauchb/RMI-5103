@@ -14,11 +14,17 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
-author:
-  name   : "First Lastname"
-  avatar : "headshot-1.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
-  links:
-    - label: "Github"
-      icon: "fas fa-fw fa-link"
-      url: "https://github.com/rauchb/RMI-5103"
+# Defaults
+defaults:
+  # pages
+  - scope:
+      path: "pages"
+      type: docs
+    values:
+      layout: single
+      read_time: false
+      author_profile: false
+      share: false
+      comments: false
+      sidebar:
+        nav: "pages"

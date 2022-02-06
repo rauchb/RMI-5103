@@ -1,5 +1,7 @@
 main:
-  - title: "Table of Contents"
-    url: /pages/contents/
-  - title: "About"
+  - title: "About this Site"
     url: /pages/about/
+  - title: "Table of Contents"
+    url: /assets/toc/
+  - title: "Sources"
+    url: /assets/sources/

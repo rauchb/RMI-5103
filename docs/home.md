@@ -5,12 +5,10 @@ hidden: true
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/mm-home-page-feature.jpg
-  actions:
-    - label: "<i class='fas fa-download'></i> Install now"
-      url: "/docs/quick-start-guide/"
 excerpt: >
   This wiki includes a brief analysis of the risks associated with underreporting medical errors.<br />
-  <small><a href="https://github.com/rauchb/HCM-5101">Go to source docs</a></small>
+# <small><a href="https://github.com/rauchb/HCM-5101">Go to source docs</a></small>
+
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
     alt: "likelihood"
@@ -26,7 +24,7 @@ feature_row:
     url: "/pages/rca/"
     btn_class: "btn--primary"
     btn_label: "Read more"
-  - image_path: /assets/images/mm-free-feature.png
+  - image_path: /assets/images/rca.png
     alt: "effects"
     title: "Downstream Effects"
     excerpt: "What is the impact of downstream effects"
