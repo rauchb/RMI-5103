@@ -16,23 +16,23 @@ feature_row:
     alt: "likelihood"
     title: "Likelihood of Underreporting"
     excerpt: "Stating the problem. How often does underreporting occur?"
-    url: "/pages/about/"
+    url: "/pages/frequency/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"
+    btn_label: "Read more"
   - image_path: /assets/images/mm-responsive-feature.png
     alt: "rca"
     title: "Root Cause Analysis"
     excerpt: "What causes safety events to be underreported?."
-    url: "/pages/about/"
+    url: "/pages/rca/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"
+    btn_label: "Read more"
   - image_path: /assets/images/mm-free-feature.png
     alt: "effects"
     title: "Downstream Effects"
     excerpt: "What is the impact of downstream effects"
-    url: "/pages/about/"
+    url: "/pages/effects/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"      
+    btn_label: "Read more"      
 ---
 
 {% include feature_row %}
