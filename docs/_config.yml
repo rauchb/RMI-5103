@@ -1,0 +1,11 @@
+remote_theme: pmarsceill/just-the-docs
+
+title: "HCM-5101 Individual Project"
+description: "This wiki was created for the individual project of HCM-5101, Fall 2020."
+
+search_enabled: true
+
+heading_anchors: true
+
+back_to_top: true
+back_to_top_text: "Back to top"
