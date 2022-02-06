@@ -6,13 +6,13 @@ search: true
 remote_theme: mmistakes/minimal-mistakes@4.24.0
 permalink: /:categories/:title/
 
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jemoji
-  - jekyll-include-cache
+# plugins:
+#   - jekyll-paginate
+#   - jekyll-sitemap
+#   - jekyll-gist
+#   - jekyll-feed
+#   - jemoji
+#   - jekyll-include-cache
 
   author:
   name   : "First Lastname"
