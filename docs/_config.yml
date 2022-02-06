@@ -1,4 +1,4 @@
-title: "RMI-5103 Individual Project"
+title: RMI
 description: This wiki was created for the individual project of RMI-5103 (Health Risks) in Spring 2022.
 
 search: true
@@ -6,15 +6,15 @@ search: true
 remote_theme: mmistakes/minimal-mistakes@4.24.0
 permalink: /:categories/:title/
 
-# plugins:
-#   - jekyll-paginate
-#   - jekyll-sitemap
-#   - jekyll-gist
-#   - jekyll-feed
-#   - jemoji
-#   - jekyll-include-cache
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
 
-  author:
+author:
   name   : "First Lastname"
   avatar : "headshot-1.jpg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
