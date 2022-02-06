@@ -8,7 +8,7 @@ nav_order: 1
 
 **Created by:** Bridget Rauch  
 
-*This wiki was created for the individual project of HCM-5101, Fall 2020.*  
+*This wiki was created for the individual project of RMI-5103 (Health Risks) in Spring 2022.*  
 
 ### Navigation
 
@@ -16,7 +16,7 @@ Navigate between pages of the wiki using the headers listed to the left on a des
 
 ### Content
 
-This wiki covers the topic of public reporting, with a deep dive into reporting of harm metrics such as HAIs (Hospital Acquired Infections) in the Commonwealth of Pennsylvania.
+This wiki includes a brief analysis of the risks associated with underreporting medical errors, including the likelihood of underreporting (frequency), potential root causes, and the downstream effects of poor data quality due to underreporting (possible perils/severity).
 
 ### Source Files
 The markdown files (`.md`) used to generate this wiki are stored in the  [rauchb/HCM-5101](https://github.com/rauchb/HCM-5101) public GitHub repository. 
