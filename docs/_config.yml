@@ -1,12 +1,26 @@
-remote_theme: mmistakes/minimal-mistakes@4.24.0
-
 title: "RMI-5103 Individual Project"
-description: "This wiki was created for the individual project of RMI-5103 (Health Risks) in Spring 2022."
+description: >-
+This wiki was created for the individual project of RMI-5103 
+(Health Risks) in Spring 2022.
 
-search_enabled: true
+search: true
 
-heading_anchors: true
+remote_theme: mmistakes/minimal-mistakes@4.24.0
+permalink: /:categories/:title/
 
-back_to_top: true
-back_to_top_text: "Back to top"
-theme: jekyll-theme-leap-day
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+
+  author:
+  name   : "First Lastname"
+  avatar : "headshot-1.jpg"
+  bio    : "My awesome biography constrained to a sentence or two goes here."
+  links:
+    - label: "Github"
+      icon: "fas fa-fw fa-link"
+      url: "https://github.com/rauchb/RMI-5103"
