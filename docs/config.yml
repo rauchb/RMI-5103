@@ -32,6 +32,12 @@ author:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
 
+# Collections
+collections:
+  pages:
+    output: true
+    permalink: /:collection/:path/
+
 # Defaults
 defaults:
   # pages
@@ -47,8 +53,8 @@ defaults:
       sidebar:
         nav: "pages"
   - scope:
-      path: "docs"
-      type: docs
+      path: "assets"
+      type: assets
     values:
       layout: single
       read_time: false
