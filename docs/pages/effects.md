@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: single
 title: This is Page 3
 permalink: /pages/effects/
 ---
