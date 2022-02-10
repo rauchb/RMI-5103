@@ -36,7 +36,7 @@ author:
 defaults:
   # pages
   - scope:
-      path: "_pages"
+      path: ""
       type: pages
     values:
       layout: single
@@ -45,7 +45,7 @@ defaults:
       share: false
       comments: false
       sidebar:
-        nav: "_pages"
+        nav: "pages"
   - scope:
       path: ""
       type: docs
