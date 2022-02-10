@@ -4,7 +4,7 @@ permalink: /
 hidden: true
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/title-image.jpg
+  overlay_image: /assets/images/title-image-dark.jpg
 excerpt: >
   This wiki includes a brief analysis of the risks associated with underreporting medical errors.<br />
 # <small><a href="https://github.com/rauchb/HCM-5101">Go to source docs</a></small>
