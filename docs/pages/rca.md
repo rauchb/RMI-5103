@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: single
 title: Root Cause Analysis
 permalink: /pages/rca/
 ---
