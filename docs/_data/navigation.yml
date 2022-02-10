@@ -5,3 +5,15 @@ main:
     url: /assets/toc/
   - title: "Sources"
     url: /assets/sources/
+
+pages:
+  - title: Current State
+    children:
+      - title: "Frequency"
+        url: /pages/frequency/
+      - title: "RCA"
+        url: /pages/rca/
+  - title: Analysis
+    children:
+      - title: "Effects"
+        url: /pages/effects/
