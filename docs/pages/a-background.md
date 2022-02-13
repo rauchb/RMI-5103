@@ -11,7 +11,7 @@ There is significant underreporting of medical errors, but the severity and rate
 
 <figure class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/self-perception-reporting-source2.png" alt="">
-  <figcaption>Image source: ECRI<sup>[[2]](https://rauchb.github.io/RMI-5103/assets/sources/#4)</figcaption>
+  <figcaption>Image source: ECRI <sup>[2]</sup> </figcaption>
 </figure>
 
 Preventing medical errors requires an accurate collection of data on the occurrence, frequency, types, and outcomes of medical errors. The most prevalent form of data collection for this information is incident reporting. Many healthcare organizations utilize error-based patient safety metrics. Error reporting requires identification of the error and action of reporting. Underreporting can occur when either of these steps fail<sup>[[6]](https://rauchb.github.io/RMI-5103/assets/sources/#6)</sup>.   
