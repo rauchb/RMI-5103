@@ -3,8 +3,10 @@ layout: single
 title: Sources
 ---
 
-#### [1] Carroll, R. (2006). Risk Management Metrics. In _Risk management handbook for health care organizations_ (5th ed., Vol. 1, pp. 155–168). Jossey-Bass.
-#### [2] Culture of Safety: An Overview. ECRI. (2019, June 14). Retrieved from [https://www.ecri.org/components/HRC/Pages/RiskQual21.aspx](https://www.ecri.org/components/HRC/Pages/RiskQual21.aspx?tab=2)
+#### [1] 
+Carroll, R. (2006). Risk Management Metrics. In _Risk management handbook for health care organizations_ (5th ed., Vol. 1, pp. 155–168). Jossey-Bass.
+#### [2] 
+Culture of Safety: An Overview. ECRI. (2019, June 14). Retrieved from [https://www.ecri.org/components/HRC/Pages/RiskQual21.aspx](https://www.ecri.org/components/HRC/Pages/RiskQual21.aspx?tab=2)
 #### [3]
 Evans, S. M. (2006). Attitudes and barriers to incident reporting: A Collaborative Hospital Study. _Quality and Safety in Health Care, 15_(1), 39–43. [https://doi.org/10.1136/qshc.2004.012559 ](https://doi.org/10.1136/qshc.2004.012559)
 #### [4]
