@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Frequency
-permalink: /pages/frequency/
+permalink: /pages/exposure/hospital
 ---
 
 ## Current State

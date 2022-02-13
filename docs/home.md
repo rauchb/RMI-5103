@@ -6,28 +6,28 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/title-image-dark.jpg
 excerpt: >
-  This wiki includes a brief analysis of the risks associated with underreporting medical errors.<br />
+  This wiki summarizes the frequency and severity of risks associated with underreporting medical errors.<br />
 # <small><a href="https://github.com/rauchb/HCM-5101">Go to source docs</a></small>
 
 feature_row:
-  - image_path: /assets/images/image-1.png
-    alt: "likelihood"
-    title: "Likelihood of Underreporting"
-    excerpt: "Stating the problem. How often does underreporting occur?"
+  - image_path: /assets/images/rca.png
+    alt: "background"
+    title: "Background and RCA"
+    excerpt: "Understand the underreporting problem and the primary root causes."
     url: "/pages/frequency/"
     btn_class: "btn--primary"
     btn_label: "Read more"
-  - image_path: /assets/images/rca.png
+  - image_path: /assets/images/risk-gauge.jpg
     alt: "rca"
-    title: "Root Cause Analysis"
-    excerpt: "What causes safety events to be underreported?."
+    title: "Risk Exposures"
+    excerpt: "Identify the downstream effects of underreporting errors and the associated risks."
     url: "/pages/rca/"
     btn_class: "btn--primary"
     btn_label: "Read more"
-  - image_path: /assets/images/image-2.png
+  - image_path: /assets/images/recommendations.png
     alt: "effects"
-    title: "Downstream Effects"
-    excerpt: "What is the impact of downstream effects"
+    title: "Analysis and Recommendations"
+    excerpt: "Explore proposals for risk management and mitigation."
     url: "/pages/effects/"
     btn_class: "btn--primary"
     btn_label: "Read more"      

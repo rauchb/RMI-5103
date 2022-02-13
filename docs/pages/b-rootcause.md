@@ -1,7 +1,7 @@
 ---
 layout: single
 title: This is Page 3
-permalink: /pages/effects/
+permalink: /pages/rootcause/
 ---
 
 ## Page Three
