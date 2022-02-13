@@ -7,7 +7,6 @@ header:
   overlay_image: /assets/images/title-image-dark.jpg
 excerpt: >
   This wiki summarizes the frequency and severity of risks associated with underreporting medical errors.<br />
-# <small><a href="https://github.com/rauchb/HCM-5101">Go to source docs</a></small>
 
 feature_row:
   - image_path: /assets/images/rca-1600-980.png
