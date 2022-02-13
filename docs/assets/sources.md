@@ -2,17 +2,13 @@
 layout: single
 title: Sources
 ---
-<font size="1">
 
-#### [1]	
-Carroll, R. (2006). Risk Management Metrics. In _Risk management handbook for health care organizations_ (5th ed., Vol. 1, pp. 155–168). Jossey-Bass.
-#### [2]
-Culture of Safety: An Overview. ECRI. (2019, June 14). Retrieved from [https://www.ecri.org/components/HRC/Pages/RiskQual21.aspx](https://www.ecri.org/components/HRC/Pages/RiskQual21.aspx?tab=2)
+#### [1] Carroll, R. (2006). Risk Management Metrics. In _Risk management handbook for health care organizations_ (5th ed., Vol. 1, pp. 155–168). Jossey-Bass.
+#### [2] Culture of Safety: An Overview. ECRI. (2019, June 14). Retrieved from [https://www.ecri.org/components/HRC/Pages/RiskQual21.aspx](https://www.ecri.org/components/HRC/Pages/RiskQual21.aspx?tab=2)
 #### [3]
 Evans, S. M. (2006). Attitudes and barriers to incident reporting: A Collaborative Hospital Study. _Quality and Safety in Health Care, 15_(1), 39–43. [https://doi.org/10.1136/qshc.2004.012559 ](https://doi.org/10.1136/qshc.2004.012559)
 #### [4]
 Flink, E., Chevalier, C. L., Ruperto, A., Dameron, P., Heigel, F. J., Leslie, R., Mannion, J., Panzer, R.J. (2005, February). _Lessons learned from the evolution of mandatory Adverse Event Reporting Systems_. National Center for Biotechnology Information. Retrieved from [https://pubmed.ncbi.nlm.nih.gov/21249986/](https://pubmed.ncbi.nlm.nih.gov/21249986/)
-</font>
 #### [5]
 Mattes, M. D., Sauers-Ford, H. S., Selleck, D., Slee, C., Natale, J. E., & Rosenthal, J. L. (2021, March 1). Improving pediatric resident safety event reporting using Quality Improvement Methods. American Academy of Pediatrics. Retrieved from [https://publications.aap.org/hospitalpediatrics/article-abstract/11/3/254/26200/Improving-Pediatric-Resident-Safety-Event?redirectedFrom=fulltext](https://publications.aap.org/hospitalpediatrics/article-abstract/11/3/254/26200/Improving-Pediatric-Resident-Safety-Event?redirectedFrom=fulltext)
 #### [6]
