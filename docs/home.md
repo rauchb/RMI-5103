@@ -20,7 +20,7 @@ feature_row:
     alt: "rca"
     title: "Risk Exposures"
     excerpt: "Identify the downstream effects of underreporting errors and the associated risks."
-    url: "/pages/patient/"
+    url: "/pages/exposure/patient/"
     btn_class: "btn--primary"
     btn_label: "Read more"
   - image_path: /assets/images/recommendations-1600-980.png
