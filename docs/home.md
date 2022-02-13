@@ -10,25 +10,25 @@ excerpt: >
 # <small><a href="https://github.com/rauchb/HCM-5101">Go to source docs</a></small>
 
 feature_row:
-  - image_path: /assets/images/rca.png
+  - image_path: /assets/images/rca-1600-980.png
     alt: "background"
     title: "Background and RCA"
     excerpt: "Understand the underreporting problem and the primary root causes."
-    url: "/pages/frequency/"
+    url: "/pages/background/"
     btn_class: "btn--primary"
     btn_label: "Read more"
-  - image_path: /assets/images/risk-gauge.jpg
+  - image_path: /assets/images/risk-gauge-1600-980.jpg
     alt: "rca"
     title: "Risk Exposures"
     excerpt: "Identify the downstream effects of underreporting errors and the associated risks."
-    url: "/pages/rca/"
+    url: "/pages/patient/"
     btn_class: "btn--primary"
     btn_label: "Read more"
-  - image_path: /assets/images/recommendations.png
+  - image_path: /assets/images/recommendations-1600-980.png
     alt: "effects"
     title: "Analysis and Recommendations"
     excerpt: "Explore proposals for risk management and mitigation."
-    url: "/pages/effects/"
+    url: "/pages/analysis/"
     btn_class: "btn--primary"
     btn_label: "Read more"      
 ---
