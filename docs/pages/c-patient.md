@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Frequency
-permalink: /pages/exposure/patient
+permalink: /pages/exposure/patient/
 ---
 
 ## Current State

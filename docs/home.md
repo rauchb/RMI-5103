@@ -26,8 +26,8 @@ feature_row:
     btn_label: "Read more"
   - image_path: /assets/images/recommendations-1600-980.png
     alt: "effects"
-    title: "Analysis and Recommendations"
-    excerpt: "Explore proposals for risk management and mitigation."
+    title: "Analysis"
+    excerpt: "Explore recommendations for risk management and mitigation."
     url: "/pages/analysis/"
     btn_class: "btn--primary"
     btn_label: "Read more"      

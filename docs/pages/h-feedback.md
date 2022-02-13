@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Root Cause Analysis
-permalink: /pages/analysis/feedback
+permalink: /pages/analysis/feedback/
 ---
 
 ## Page 4 title

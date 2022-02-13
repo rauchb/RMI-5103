@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Root Cause Analysis
-permalink: /pages/analysis/culture
+permalink: /pages/analysis/culture/
 ---
 
 ## Page 4 title

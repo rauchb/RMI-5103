@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Root Cause Analysis
-permalink: /pages/analysis/nearmiss
+permalink: /pages/analysis/nearmiss/
 ---
 
 ## Page 4 title
