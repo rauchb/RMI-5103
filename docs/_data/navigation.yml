@@ -13,15 +13,15 @@ pages:
         url: /pages/background/
       - title: "Root Cause Analysis"
         url: /pages/rootcause/
-  - title: Risk Exposures
+  - title: Risks
     children:
-      - title: "For patients"
+      - title: "For Patients"
         url: /pages/exposure/patient/
-      - title: "For hospitals"
+      - title: "For Hospitals"
         url: /pages/exposure/hospital/
-  - title: Analysis and Recommendations
+  - title: Analysis
     children:
-      - title: "Summary"
+      - title: "Summary of Recommendations"
         url: /pages/analysis/
       - title: "Near Misses"
         url: /pages/analysis/nearmiss/
