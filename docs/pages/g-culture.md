@@ -1,9 +1,13 @@
 ---
 layout: single
-title: Root Cause Analysis
+title: Just Culture
 permalink: /pages/analysis/culture/
 ---
 
-## Page 4 title
+While many reporting systems offer a promise of anonymity and protection to the reporter, there are high levels of fear and hesitancy around error reporting. In a survey of pediatric physicians and nurses, 17.5% indicated they were concerned about being blamed or judged as incompetent when self-reporting errors<sup>[[7]](https://rauchb.github.io/RMI-5103/assets/sources/#7)</sup>. Reducing these fears will not be an effect in a system or process change, but rather will be dependent on the culture embraced by hospital leadership. 
 
-This is text with a citation. [[1]](https://rauchb.github.io/HCM-5101/sources.html#1)
+The medical feild is notorious for having the mentality that the next generation of doctors has it easier, which is well documented in the practices and sentiments around residency programs. As such, there are high stakes in performance for young doctors and a reluctance to admit (much less call attention to) errors. Without a culture of safety, providers of all levels are insufficiently motivated to report events. 
+
+>*In such an environment, people are comfortable raising their hand to say, "I made a mistake," because they trust that the organization's response will be, "How was this possible?" instead of "Who did it?"* (ECRI)<sup>[[2]](https://rauchb.github.io/RMI-5103/assets/sources/#2)</sup>
+
+Visible leadership support of a safety culture is a top recommendation for achieving patient safety, including from the National Patient Safety Foundation<sup>[[2]](https://rauchb.github.io/RMI-5103/assets/sources/#2)</sup>. The leadership example must provide support for staff involved in an adverse patient event, rather than discipline or mandatory education (which are seen as punitive). 
