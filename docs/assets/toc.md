@@ -17,7 +17,6 @@ title: Table of Contents
 - [Just Culture](https://rauchb.github.io/RMI-5103/pages/analysis/culture/)
 - [Action and Feedback](https://rauchb.github.io/RMI-5103/pages/analysis/feedback/)
 
-</br>
 
 # Additional Pages
 - [Home](https://rauchb.github.io/RMI-5103/)
