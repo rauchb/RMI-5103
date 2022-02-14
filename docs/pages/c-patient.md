@@ -10,10 +10,10 @@ The risks of underreported errors are most clearly evident from the patient pers
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/patient-outcome.jpg" alt="">
 </figure> 
 
-A positive safety culture has been linked in a variety of studies to reduced infection rates, fewer admissions, better surgical outcomes, reduced adverse events, and decreased mortality<sup>[[2]](https://rauchb.github.io/RMI-5103/assets/sources/#2)</sup>. Thus, a punitive culture or one where errors are kept hidden would result in the opposite effect. 
+A positive safety culture has been linked in a variety of studies to reduced infection rates, fewer admissions, better surgical outcomes, reduced adverse events, and decreased mortality<sup>[[2]](https://rauchb.github.io/RMI-5103/assets/sources/#2)</sup>. Thus, a punitive culture or one where errors are kept hidden would result in the opposite effect - increasing these undesirable patient outcomes. 
 
-With underreporting, safety events that are reported are often subject to hindsight bias in the attribution of the primary cause<sup>[[6]](https://rauchb.github.io/RMI-5103/assets/sources/#6)</sup>. This may lead to simplifying the system’s flaws and prevent only the same adverse event in the future.
+Safety events that are reported are often subject to hindsight bias in the attribution of the primary cause<sup>[[6]](https://rauchb.github.io/RMI-5103/assets/sources/#6)</sup>. This may lead to simplifying the system’s flaws and prevent only the same adverse event in the future.
 
-In addition to the prevention of system improvements, underreporting at an individual level can impact your clinical outcomes as a patient. When there is an error involved in your care that is not reported or added to your chart (perhaps because an in-the-moment review indicated there was no harm), there may be latent effects that will impact your outcomes or recovery. 
+In addition to the prevention of system improvements, underreporting at an individual level can impact that patient's clinical outcomes within or after their hospital admission. When there is an error involved in a patient's care that is not reported or added to the chart (perhaps because an in-the-moment review indicated there was no harm), there may be latent effects that will impact outcomes or recovery. 
 
-Ultimately, underreporting has a direct impact on patient outcomes, and hides these impacts through inaccurate and incomplete tracking of patient safety. 
+Ultimately, underreporting has a direct impact on patient outcomes and masks these impacts through inaccurate and incomplete tracking of patient safety. 
