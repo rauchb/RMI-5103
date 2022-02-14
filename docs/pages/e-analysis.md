@@ -9,3 +9,8 @@ To break cycle, need just culture for reporting events, streamline the reporting
 Reporting alone will not improve patient safety; data collected must lead to the implementation of changes to the care systems.
 
 Improvement efforts with the primary outcome measure as the number of safety events reported have been shown to be effective<sup>[[5]](https://rauchb.github.io/RMI-5103/assets/sources/#5)</sup>. However, it is not necessary to rely exclusively on reporting. Voluntary error reporting can be supplemented with triggers for chart review, observation, and integrated proactive quality improvement (QI) programs. 
+
+Interventions to improve underreporting should be focused in three areas:
+- [Near Misses](https://rauchb.github.io/RMI-5103/pages/analysis/nearmiss/)
+- [Just Culture](https://rauchb.github.io/RMI-5103/pages/analysis/culture/)
+- [Action and Feedback](https://rauchb.github.io/RMI-5103/pages/analysis/feedback/)
