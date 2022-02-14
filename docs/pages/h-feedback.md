@@ -11,6 +11,6 @@ A survey of providers indicated the following would have a positive impact on th
 - Regular feedback on types and frequency of reported errors (63.8%)
 - Feedback on the outcomes of specific errors (51.2%)
 
-Improved data transparency has been shown to increase the number of events reported<sup>[[5]](https://rauchb.github.io/RMI-5103/assets/sources/#5)</sup>. Instant feedback and psychological effect seeing the count of events reported increase after completing your submission. This ties back to the well-known psychological principle that reinforced behavior will continue or increase, but the desired action will decline over time if the positive reinforcement is removed. 
+Improved data transparency has been shown to increase the number of events reported<sup>[[5]](https://rauchb.github.io/RMI-5103/assets/sources/#5)</sup>. Instant feedback in seeing the count of events reported increase after completing the submission provides positive reinforcement for the action of reporting events. This ties back to the well-known psychological principle that reinforced behavior will continue or increase. Likewise, the desired action will decline over time if the positive reinforcement is removed - as evidenced by provider's unwillingness to report events when they do not perceive an impact of their effort. 
 
 Error management includes short-term actions in response to a specific error occurrence, but error reporting should focus on understanding why errors occur and in using the understanding to generate long-term improvements in patient safety.  
