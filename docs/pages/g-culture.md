@@ -8,7 +8,7 @@ While many reporting systems offer a promise of anonymity and protection to the 
 
 The medical feild is notorious for breeding the mentality that the next generation of doctors has it easier, which is well documented and evidenced in the practices around residency and training programs. As such, there are high stakes in the performance for young doctors. Across most healthcare organizations, this leads to a reluctance to admit errors (much less call attention to them through self-reporting). Without a culture of safety, providers of all levels are insufficiently motivated to report events. 
 
-<figure style="width: 150px" class="align-left">
+<figure style="width: 150px" class="align-right">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/raised-hand.jpg" alt="">
 </figure> 
 
